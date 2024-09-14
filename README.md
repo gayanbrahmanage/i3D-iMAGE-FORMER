@@ -17,3 +17,9 @@
 <img src="samples/640imgp.jpg" alt="Example Image" width="320" height="96">
 
  </div>
+
+### Application example: Metric scale monocular SLAM
+
+[![My YouTube Video](http://img.youtube.com/vi/EfvvFmAQTpE/0.jpg)](https://www.youtube.com/watch?v=EfvvFmAQTpE)
+
+[Watch on YouTube](https://www.youtube.com/watch?v=EfvvFmAQTpE)
