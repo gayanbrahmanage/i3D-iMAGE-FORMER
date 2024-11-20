@@ -1,8 +1,8 @@
-Source code - Python Tensorflow Implementation ![i3D-iMAGE-FORMER](https://github.com/gayanbrahmanage/3DiMAGE_FORMER/tree/main)
+Source code (Beta version) - Python Tensorflow Implementation ![i3D-iMAGE-FORMER](https://github.com/gayanbrahmanage/3DiMAGE_FORMER/tree/main)
 
 # i3D-iMAGE-FORMER : Metric Scale Depth Prediction 
  DCViT-Dual Convolution Vision Transformer for Single Image Depth Prediction
- Note: The open-source Python implementation of DCViT will be released soon.
+ Note: The open-source Python implementation of the DCViT full version will be released soon.
  
  ### RGB input and depth prediction samples
  <div style="display: flex;">
